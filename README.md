@@ -1,5 +1,5 @@
 # Synatx Transformation Tool
-Initial definition: 
+Currently supported definitions: 
 1) AWS CloudFormation to HashiCorp Terraform (HCL) Files
 
 ## Goal
