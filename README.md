@@ -1,4 +1,4 @@
-# Synatx Transformation Tool
+# Syntax Transformation Tool
 Currently supported definitions: 
 1) AWS CloudFormation to HashiCorp Terraform (HCL) Files
 
