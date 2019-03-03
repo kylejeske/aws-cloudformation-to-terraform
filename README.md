@@ -1,5 +1,6 @@
-# AWS CloudFormation to Terraform Configuration (HCL) Files
-AWS CloudFormation to HashiCorp Terraform (HCL) Files
+# Synatx Transformation Tool
+Initial definition: 
+1) AWS CloudFormation to HashiCorp Terraform (HCL) Files
 
 ## Goal
 Convert Cloudformation (JSON) files and all their resources to a Terraform Infrastructure configuration template file.
